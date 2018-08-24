@@ -1,3 +1,3 @@
 # python
-all my python code goes here
-This is just a try to uderstand how changes work
+All my python code goes here.
+This is just a try to uderstand how changes work.
